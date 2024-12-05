@@ -4,6 +4,8 @@
 
 
 # Valery Shpot
+Hi! I am a backend .Net developer, dealing with high-load microservices
+
 :pushpin: ***Living in:***  Russia, Moscow. 
 
 :alarm_clock: ***Timezone:*** UTC+3.
