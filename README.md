@@ -47,3 +47,5 @@ Ozon marketplace.
  ### [Century zero](https://github.com/Shpotson/CenturyZero) - raw demo of RPG game
  *Developed as a bachelor's Degree project in HSE, FCS, Software engineering*
  
+ ![century-gif](https://github.com/Shpotson/shpotson/blob/main/century_zero.gif)
+ 
