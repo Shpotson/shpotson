@@ -16,38 +16,57 @@ Hi! I am a backend .Net developer, dealing with high-load microservices
 
 ***Main stack:*** 
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 	![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 	![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ***Also worked with:*** 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ## Career  :tophat:
 
-### Ozon Tech, ERP department (2022 - 2024)
+### Ozon Tech, ERP department (2022 - 2026)
 *.Net backend developer*
 
 Main Achievments: 
-- Developed the receipt generation service for the Uzbekistan local
-Ozon marketplace.
+- Developed the receipt generation service for the Uzbekistan local Ozon marketplace.
 - Converted a number of the most highly loaded services, that have been working with single PostgreSQL databases, to be working with sharded PostgreSQL cluster without loosing any data.
 - I was involved in the development of a salary billing system for fulfillment employees.
 - I developed the backend of a new service to process and approve technical support requests from our internal employees. This new system has helped us to partially replace our outdated Jira support portal.
-- Implemented a service that quickly uploads large datasets to Hadoop, necessary for data reconciliation with neighboring teams.
+- Implemented a .NET service that quickly uploads large datasets to Hadoop, necessary for data reconciliation with neighboring teams.
+- Implemented a .NET generic service for a stateful data processing, used for different large data fixes, analitycs and data transfering
 
 ## Education :mortar_board:
  __Bachelor:__ HSE, FCS, Software engineering 2023'
 
  __Master course:__ HSE, FCS, Data engineering 2026'
 
- ## Pet projects  :basketball:
+## Pet projects  :basketball:
+
+ ### [pg-proto](https://github.com/Shpotson/pg-proto)
+ PostgreSQL C/C++ extension for working with Protobuf: proto data type, fast on-the-fly deserialization of bytea payloads, and a schema registry for message schemas.
  
- ### [Century zero](https://github.com/Shpotson/CenturyZero) - raw demo of RPG game
+ ### [Century Zero](https://github.com/Shpotson/CenturyZero) 
+ Raw demo of UE5 RPG game
+ 
  *Developed as a bachelor's Degree project in HSE, FCS, Software engineering*
  
  ![century-gif](https://github.com/Shpotson/shpotson/blob/main/century_zero.gif)
+ 
+ ### Master's course homeworks
+ [short-url](https://github.com/Shpotson/short-url) - Demo FastApi service for URL shortening
+ 
+ [async_replication](https://github.com/Shpotson/async_replication) - Airflow pipeline for data replication
+ 
+ [vk-analyzer](https://github.com/Shpotson/vk-analyzer) - Java console app for working with VK API
+ 
+ 
+ 
  
